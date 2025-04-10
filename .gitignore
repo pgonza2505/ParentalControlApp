@@ -1,0 +1,23 @@
+# Ignore build folders
+bin/
+obj/
+
+# Ignore temporary and log files
+*.log
+*.tmp
+*.bak
+
+# Ignore sensitive config files
+config.txt
+recovery.txt
+
+# Ignore runtime data
+blocked_sites.txt
+block_log.txt
+
+# Visual Studio Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
