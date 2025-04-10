@@ -1,0 +1,14 @@
+C:\Users\User\C#\Parental Controls\bin\Debug\net6.0-windows\Parental Controls.exe
+C:\Users\User\C#\Parental Controls\bin\Debug\net6.0-windows\Parental Controls.deps.json
+C:\Users\User\C#\Parental Controls\bin\Debug\net6.0-windows\Parental Controls.runtimeconfig.json
+C:\Users\User\C#\Parental Controls\bin\Debug\net6.0-windows\Parental Controls.dll
+C:\Users\User\C#\Parental Controls\bin\Debug\net6.0-windows\Parental Controls.pdb
+C:\Users\User\C#\Parental Controls\obj\Debug\net6.0-windows\Parental Controls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\C#\Parental Controls\obj\Debug\net6.0-windows\Parental Controls.AssemblyInfoInputs.cache
+C:\Users\User\C#\Parental Controls\obj\Debug\net6.0-windows\Parental Controls.AssemblyInfo.cs
+C:\Users\User\C#\Parental Controls\obj\Debug\net6.0-windows\Parental Controls.csproj.CoreCompileInputs.cache
+C:\Users\User\C#\Parental Controls\obj\Debug\net6.0-windows\Parental Controls.dll
+C:\Users\User\C#\Parental Controls\obj\Debug\net6.0-windows\refint\Parental Controls.dll
+C:\Users\User\C#\Parental Controls\obj\Debug\net6.0-windows\Parental Controls.pdb
+C:\Users\User\C#\Parental Controls\obj\Debug\net6.0-windows\Parental Controls.genruntimeconfig.cache
+C:\Users\User\C#\Parental Controls\obj\Debug\net6.0-windows\ref\Parental Controls.dll
