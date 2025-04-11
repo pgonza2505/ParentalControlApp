@@ -98,7 +98,17 @@ namespace ParentalControlApp
             LoadLogs();
         }
 
-        private void ShowMainWindow() => Invoke((MethodInvoker)(() => { Show(); WindowState = FormWindowState.Normal; BringToFront(); }));
+        private void ShowMainWindow()
+        {
+            var login = new LoginForm();
+            login.ShowDialog();
+            if (login.IsAuthenticated)
+            {
+                Show();
+                WindowState = FormWindowState.Normal;
+                BringToFront();
+            }
+        }
         private void HideToTray() => Hide();
 
         private void AddSite()
